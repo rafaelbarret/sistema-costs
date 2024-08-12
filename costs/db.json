@@ -1,0 +1,80 @@
+{
+  "projects": [
+    {
+      "id": "5989",
+      "name": "rafaa",
+      "budget": "12359",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 100,
+      "services": [
+        {
+          "name": "construção",
+          "cost": "100",
+          "description": "reforma",
+          "id": "f7c40962-6280-474c-b69f-5c6a617c9f12"
+        }
+      ]
+    },
+    {
+      "id": "0437",
+      "name": "tes 1",
+      "budget": "1998",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "Teste de novo serviço",
+          "cost": "500",
+          "description": "Teste de outra aba de serviços",
+          "id": "edc4ad7c-4bee-4231-8ae3-8bfaa1fdfc66"
+        }
+      ]
+    },
+    {
+      "id": "da46",
+      "name": "casa",
+      "budget": "998",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "c4c4",
+      "name": "reciclagem",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}

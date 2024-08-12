@@ -1,0 +1,15 @@
+.project_container {
+    padding: 2em;
+    overflow-y: hidden;
+ 
+}
+
+.title_container {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 16px;
+    column-gap: 600px;
+}
+
+
+
